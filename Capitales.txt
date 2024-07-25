@@ -1,0 +1,195 @@
+Afganistán - Kabul, Afganistan - Kabul
+Albania - Tirana
+Alemania - Berlín, Alemania - Berlin
+Andorra - Andorra la Vieja
+Angola - Luanda
+Antigua y Barbuda - Saint John
+Arabia Saudita - Riad, Arabia Saudita - Riad
+Argelia - Argel
+Argentina - Buenos Aires
+Armenia - Ereván, Armenia - Erevan
+Australia - Canberra
+Austria - Viena
+Azerbaiyán - Bakú, Azerbaiyan - Baku
+Bahamas - Nasáu, Bahamas - Nasau
+Bangladés - Dacca, Banglades - Dacca
+Barbados - Bridgetown
+Baréin - Manama, Barein - Manama
+Bélgica - Bruselas, Belgica - Bruselas
+Belice - Belmopán, Belice - Belmopan
+Benín - Porto Novo, Benin - Porto Novo
+Bielorrusia - Minsk
+Birmania - Naipyidó, Birmania - Naipyido
+Bolivia - Sucre
+Bosnia y Herzegovina - Sarajevo
+Botsuana - Gaborone
+Brasil - Brasilia
+Brunéi - Bandar Seri Begawan, Brunei - Bandar Seri Begawan
+Bulgaria - Sofía, Bulgaria - Sofia
+Burkina Faso - Uagadugú, Burkina Faso - Uagadugu
+Burundi - Buyumbura
+Bután - Timbu, Butan - Timbu
+Cabo Verde - Praia
+Camboya - Nom Pen, Camboya - Nom Pen
+Camerún - Yaundé, Camerun - Yaunde
+Canadá - Ottawa, Canada - Ottawa
+Catar - Doha
+Chad - Yamena, Chad - Yamena
+Chile - Santiago
+China - Pekín, China - Pekin
+Chipre - Nicosia
+Ciudad del Vaticano - Ciudad del Vaticano
+Colombia - Bogotá, Colombia - Bogota
+Comoras - Moroni
+Congo - Brazzaville
+Corea del Norte - Pionyang, Corea del Norte - Pionyang
+Corea del Sur - Seúl, Corea del Sur - Seul
+Costa de Marfil - Yamusukro, Costa de Marfil - Yamusukro
+Costa Rica - San José, Costa Rica - San Jose
+Croacia - Zagreb
+Cuba - La Habana, Cuba - La Habana
+Dinamarca - Copenhague, Dinamarca - Copenhague
+Dominica - Roseau
+Ecuador - Quito
+Egipto - El Cairo
+El Salvador - San Salvador
+Emiratos Árabes Unidos - Abu Dabi, Emiratos Arabes Unidos - Abu Dabi
+Eritrea - Asmara
+Eslovaquia - Bratislava
+Eslovenia - Liubliana, Eslovenia - Liubliana
+España - Madrid, Espana - Madrid
+Estados Unidos - Washington D.C., Estados Unidos - Washington DC
+Estonia - Tallin
+Esuatini - Mbabane
+Etiopía - Adís Abeba, Etiopia - Adis Abeba
+Filipinas - Manila
+Finlandia - Helsinki
+Fiyi - Suva
+Francia - París, Francia - Paris
+Gabón - Libreville, Gabon - Libreville
+Gambia - Banjul
+Georgia - Tiflis
+Ghana - Acra
+Granada - Saint George
+Grecia - Atenas
+Guatemala - Ciudad de Guatemala
+Guyana - Georgetown
+Guinea - Conakri, Guinea - Conakri
+Guinea Ecuatorial - Malabo
+Guinea-Bisáu - Bisáu, Guinea-Bisau - Bisau
+Haití - Puerto Príncipe, Haiti - Puerto Principe
+Honduras - Tegucigalpa
+Hungría - Budapest
+India - Nueva Delhi, India - Nueva Delhi
+Indonesia - Yakarta, Indonesia - Yakarta
+Irak - Bagdad, Irak - Bagdad
+Irán - Teherán, Iran - Teheran
+Irlanda - Dublín, Irlanda - Dublin
+Islandia - Reikiavik, Islandia - Reikiavik
+Islas Marshall - Majuro
+Islas Salomón - Honiara
+Israel - Jerusalén, Israel - Jerusalen
+Italia - Roma
+Jamaica - Kingston
+Japón - Tokio, Japon - Tokio
+Jordania - Amán, Jordania - Aman
+Kazajistán - Astaná, Kazajistan - Astana
+Kenia - Nairobi
+Kirguistán - Biskek, Kirguistan - Biskek
+Kiribati - Tarawa
+Kuwait - Kuwait
+Laos - Vientián, Laos - Vientian
+Lesoto - Maseru
+Letonia - Riga
+Líbano - Beirut, Libano - Beirut
+Liberia - Monrovia
+Libia - Trípoli, Libia - Tripoli
+Liechtenstein - Vaduz
+Lituania - Vilna, Lituania - Vilna
+Luxemburgo - Luxemburgo
+Macedonia del Norte - Skopie, Macedonia del Norte - Skopie
+Madagascar - Antananarivo
+Malasia - Kuala Lumpur
+Malaui - Lilongüe, Malaui - Lilongue
+Maldivas - Malé, Maldivas - Male
+Malí - Bamako, Mali - Bamako
+Malta - La Valeta, Malta - La Valeta
+Marruecos - Rabat
+Mauricio - Port Louis
+Mauritania - Nuakchot
+México - Ciudad de México, Mexico - Ciudad de Mexico
+Micronesia - Paliquir, Micronesia - Paliquir
+Moldavia - Chisináu, Moldavia - Chisinau
+Mónaco - Mónaco, Monaco - Monaco
+Mongolia - Ulán Bator, Mongolia - Ulan Bator
+Montenegro - Podgorica
+Mozambique - Maputo
+Namibia - Windhoek
+Nauru - Yaren
+Nepal - Katmandú, Nepal - Katmandu
+Nicaragua - Managua
+Níger - Niamey, Niger - Niamey
+Nigeria - Abuya
+Noruega - Oslo
+Nueva Zelanda - Wellington
+Omán - Mascate, Oman - Mascate
+Países Bajos - Ámsterdam, Paises Bajos - Amsterdam
+Pakistán - Islamabad, Pakistan - Islamabad
+Palaos - Ngerulmud
+Panamá - Ciudad de Panamá, Panama - Ciudad de Panama
+Papúa Nueva Guinea - Port Moresby, Papua Nueva Guinea - Port Moresby
+Paraguay - Asunción, Paraguay - Asuncion
+Perú - Lima, Peru - Lima
+Polonia - Varsovia
+Portugal - Lisboa
+Reino Unido - Londres
+República Centroafricana - Bangui, Republica Centroafricana - Bangui
+República Checa - Praga, Republica Checa - Praga
+República Democrática del Congo - Kinsasa, Republica Democratica del Congo - Kinsasa
+República Dominicana - Santo Domingo, Republica Dominicana - Santo Domingo
+Ruanda - Kigali
+Rumanía - Bucarest, Rumania - Bucarest
+Rusia - Moscú, Rusia - Moscu
+Samoa - Apia
+San Cristóbal y Nieves - Basseterre, San Cristobal y Nieves - Basseterre
+San Marino - San Marino
+San Vicente y las Granadinas - Kingstown
+Santa Lucía - Castries, Santa Lucia - Castries
+Santo Tomé y Príncipe - Santo Tomé, Santo Tome y Principe - Santo Tome
+Senegal - Dakar
+Serbia - Belgrado
+Seychelles - Victoria
+Sierra Leona - Freetown
+Singapur - Singapur
+Siria - Damasco
+Somalia - Mogadiscio
+Sri Lanka - Sri Jayawardenapura Kotte
+Suazilandia - Mbabane
+Sudáfrica - Pretoria, Sudafrica - Pretoria
+Sudán - Jartum, Sudan - Jartum
+Sudán del Sur - Yuba, Sudan del Sur - Yuba
+Suecia - Estocolmo
+Suiza - Berna
+Surinam - Paramaribo
+Tailandia - Bangkok
+Tanzania - Dodoma
+Tayikistán - Dusambé, Tayikistan - Dusambe
+Timor Oriental - Dili
+Togo - Lomé, Togo - Lome
+Tonga - Nukualofa
+Trinidad y Tobago - Puerto España, Trinidad y Tobago - Puerto Espana
+Túnez - Túnez, Tunez - Tunez
+Turkmenistán - Asjabad, Turkmenistan - Asjabad
+Turquía - Ankara, Turquia - Ankara
+Tuvalu - Funafuti
+Ucrania - Kiev
+Uganda - Kampala
+Uruguay - Montevideo
+Uzbekistán - Taskent, Uzbekistan - Taskent
+Vanuatu - Port Vila
+Venezuela - Caracas
+Vietnam - Hanói, Vietnam - Hanoi
+Yemen - Saná, Yemen - Sana
+Yibuti - Yibuti
+Zambia - Lusaka
+Zimbabue - Harare
